@@ -4,8 +4,7 @@
 
 This project presents a **Virtual Mouse system** that integrates **eye tracking**, **hand gesture recognition**,
 and **voice commands** to enable multimodal, hands-free human-computer interaction. Designed to enhance accessibility,
-the system allows users to control a
-computer without traditional input devices like a physical mouse or keyboard.
+the system allows users to control a computer without traditional input devices like a physical mouse or keyboard.
 
 ## 🔍 Abstract
 
